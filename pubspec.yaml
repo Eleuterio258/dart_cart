@@ -1,6 +1,6 @@
 name: dart_cart
 description:  This package for the cart management. This package helps you to perform basic cart operation like (Add to cart, Remove from cart, Get total count) etc. 
-version: 2.2.0
+version: 2.2.1
 homepage: https://github.com/Eleuterio258
 environment:
   sdk: '>=2.12.0 <3.0.0'
